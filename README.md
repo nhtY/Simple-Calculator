@@ -1,5 +1,5 @@
 # Simple-Calculator
-A simple desktop application developed in java with NetBeans. It can do four basic operations with operation precedence.
+A simple desktop application developed in java with NetBeans. It can do four basic operations by obeying operator precedence.
 The input length is limited. When exceeding the limit, it throws a warning window.
 
 ## See the Video:
